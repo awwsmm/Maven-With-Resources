@@ -1,0 +1,3 @@
+this is an example resource
+here is a second line
+and a third one
